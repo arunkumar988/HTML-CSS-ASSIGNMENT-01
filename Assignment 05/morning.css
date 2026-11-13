@@ -1,0 +1,118 @@
+body{
+    background-color: rgb(222, 230, 230);
+}
+.para1{
+    color: rgb(60, 142, 60);
+    font-weight: 700;
+}
+#header{
+    margin: 20px;
+    padding-right: 10px;
+}
+
+#main{
+    margin: 20px;
+}
+.div1{
+    display: flex;
+    background-color: rgb(0, 87, 0);
+    height: 50px;
+    color: white;
+    justify-content: space-between;
+    text-align: center;
+}
+.div2{
+    height: 250px;
+    background-color: rgb(10, 146, 10);
+    padding-left: 10px;
+    padding-top: 5px;
+}
+.para2{
+    color: yellow;
+}
+.heading1{
+    color: white;
+}
+.para3{
+    color: white;
+}
+button{
+   background-color: rgb(0, 67, 0);
+   color: white;
+   border-radius: 5px;
+   font-size: 20px;
+}
+.div3{
+    background-color: white;
+    height: 650px;
+    border-radius: 3px;
+   
+    
+}
+.div4{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+.box1{
+    height: 100px;
+    width: 360px;
+    background-color: gainsboro;
+    border-radius: 3px;
+    border: 1px solid gray;
+    padding-left: 10px;
+    padding-bottom: 30px;
+    box-sizing: border-box;
+}
+.box2{
+    height: 100px;
+    width: 360px;
+    background-color: gainsboro;
+    border-radius: 1px;
+    border: 2px solid gold;
+    padding-left: 10px;
+    padding-bottom: 30px;
+    box-sizing: border-box;
+}
+.box3{
+    height: 100px;
+    width: 360px;
+    background-color: gainsboro;
+    border: 2px solid green;
+    padding-left: 10px;
+    padding-bottom: 30px;
+    box-sizing: border-box;
+
+}
+.div5{
+    background-image: url(Image2.jpg);
+    background-size: contain;
+    height: 100px;
+    border-radius: 5px;
+    margin: 10px;
+    /* width: 100%; */
+}
+.div6{
+    margin-left: 10px;
+}
+button{
+    margin-top: 10px;
+} 
+.div7{
+    display: flex;
+    background-color: rgb(0, 87, 0);
+    height: 50px;
+    color: white;
+    justify-content: space-between;
+    text-align: center;
+
+}
+
+
+.div8{
+   background-color: rgb(13, 216, 148);
+    height: 60px;
+    border-radius: 3px;
+    margin: 6px;
+}
+

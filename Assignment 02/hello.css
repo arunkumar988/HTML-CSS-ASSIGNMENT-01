@@ -1,0 +1,46 @@
+#tyu{
+    padding-left: 34px;
+   
+    
+
+}
+
+body{
+    background-color: lightcyan;
+}
+#xyz{
+    color: lightseagreen;
+    font-weight: 900;
+}
+#fgh{
+    padding-left: 35px;
+}
+#pqr{
+    background-color: lightslategrey;
+    height: 20px;
+    width: 1200px;
+}
+#cvb{
+    height: 1400px;
+    width: 1200px;
+    background-color: white;
+    color: black;
+    padding-top: 1px;
+}
+#bnm{
+    margin: 30px;
+}
+input{
+    width: 100%;
+    box-sizing: border-box;
+}
+h3{
+    color: lightgreen;
+}
+#kjh{
+    background-color: lightcyan;
+    padding-left: 34px;
+}
+#mko{
+    height: 50px;
+}

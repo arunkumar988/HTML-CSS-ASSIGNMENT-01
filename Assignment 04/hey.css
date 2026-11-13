@@ -1,0 +1,173 @@
+
+body{
+    background-color: rgba(201, 181, 181, 0.444);
+}
+#bvc{
+    border-width: bold;
+    color: rgb(14, 146, 102);
+}
+#pqr{
+    /* display: flex; */
+    background-color: darkseagreen;
+    padding: 20px;
+  
+
+}
+#div2{
+    display: flex;
+    justify-content: end;
+    padding-bottom: 10px; 
+}
+#vdr{
+    background-color: lightgreen;
+}
+.aarav{
+    display: flex;
+    height: 40px;
+  
+    background-color: rgba(3, 43, 3, 0.999);
+    justify-content: space-between;
+    color: white;
+    align-items: center;
+}
+.home{
+    margin-right: 10px;
+
+}
+.portfolio{
+    font-weight: 700;
+}
+.div2{
+    background-color: rgb(51, 213, 159);
+    height: 280px;
+    padding: 20px;
+
+}
+.div3{
+    display: flex;
+    justify-content: space-between;
+}
+.background{
+    height: 150px;
+    width: 150px;
+    background-color: aliceblue;
+    border-radius: 2px;
+    overflow: hidden;
+    position: relative;
+
+}
+.smallcircle{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: rgb(7, 49, 85);
+    position: absolute;
+    top: 3px;
+    left: 50px;
+
+}
+.bigcircle{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: rgb(84, 124, 159);
+    position: relative; 
+    top: 50px;
+    left: 30px; 
+}
+#div10{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.box1{
+    height: 100px;
+    width: 500px;
+    background-image: url(Image.png);
+    /* background-repeat: no-repeat; */
+    border-radius: 5px;
+    background-size: contain;
+    /* background-position: center; */
+
+}
+.box2{
+    height: 100px;
+    width: 500px;
+    background-image: url(Image.png);
+    /* background-repeat: no-repeat; */
+    border-radius: 5px;
+    background-size: contain;
+    /* background-position: center; */
+  
+    
+}
+.button2{
+    background-color: darkgreen;
+    color: white;
+    width: 100px;
+}
+
+
+.div4{
+    display: flex;
+    list-style: none;
+    gap: 15px;
+}
+.dot{
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    background-color: black;
+
+}
+.div7{
+
+    display: flex;
+    justify-content: space-between;
+}
+.left{
+    height: 200px;
+    width: 520px;
+    background-color: rgb(175, 193, 208);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+}
+.pqr{
+    height: 200px;
+    width: 520px;
+    background-color: rgb(175, 193, 208);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+#xyz{
+    margin: 10px;
+}
+#pqr{
+    margin: 10px;
+}
+.div7{
+    display: flex;
+    height: 40px;
+    background-color: rgba(3, 43, 3, 0.999);
+    justify-content: space-between;
+    color: white;
+    align-items: center;
+    margin: 10px;
+    /* margin-bottom: 100px; */
+}
+#cdr{
+    margin: 10px;
+}
+.div8{
+    height: 70px;
+    background-color: rgb(169, 236, 236);
+
+}
+#div9{
+    margin-bottom: 120px;
+}
